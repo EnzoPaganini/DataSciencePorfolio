@@ -28,7 +28,8 @@ Skills
 10- HTML
 11- CSS
 12- C++
-!3- Spark
+13- Spark
+14- Hadoop
 ```
 
 Languages
