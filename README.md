@@ -2,7 +2,7 @@
 
 Welcome! My name is Enzo Paganini and this in my Data Science Portfolio. I created this portfolio so I could keep track of my progress as a Data Scientist and as a way to upgrade my resume as I'm trying to start a career as a Data Scientist. Hope you enjoy it and don't hesitate do hit me up for any doubts.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### About me
 
