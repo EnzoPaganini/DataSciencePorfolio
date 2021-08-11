@@ -48,15 +48,15 @@ Job experience
 1 year as fullstack developer in Chamer
 ```
 
-### Data Science Projects
+## Data Science Projects
 
-## Data analysis in a imdb dataset
+### Data analysis in a imdb dataset
 This project was made as I was doing a course in the Data Science Academy website. This is my approach to answear the propposed questions.
 
 
 
-### PowerBI Projects
+## PowerBI Projects
 
-## Case study 1 - Sales Dashboard containing: a bar chart with sum of sales by year, a map plot with labor by state, a pie chart with shipping fie by factory, the sum of sales and finally, a table showing infos of each factory.
+### Case study 1 - Sales Dashboard containing: a bar chart with sum of sales by year, a map plot with labor by state, a pie chart with shipping fie by factory, the sum of sales and finally, a table showing infos of each factory.
 
 <img src="imagens/EstudoCaso1.png" alt="hi" class="inline"/>
