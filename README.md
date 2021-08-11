@@ -52,3 +52,5 @@ Job experience
 
 ## Data analysis in a imdb dataset
 This project was made as I was doing a course in the Data Science Academy website. This is my approach to answear the propposed questions.
+
+<img src="imagens/EstudoCaso1.png" alt="hi" class="inline"/>
