@@ -65,3 +65,11 @@ This project was made as I was doing a course in the Data Science Academy websit
 - a table showing infos of each factory.
 
 <img src="EstudoCaso1.png" alt="hi" class="inline"/>
+
+### Case study 2 - Sales Strategy for electronic equipment Dashboard containing:
+- a bar chart with sum of sales by factory
+- a map plot with sum of sales by state and category 
+- a funnel plot with sum of sales by segment 
+- a influence analysis for value and segment
+
+<img src="EstudoCaso2.png" alt="hi" class="inline"/>
