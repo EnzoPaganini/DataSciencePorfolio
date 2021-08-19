@@ -45,7 +45,7 @@ Job experience
 
 ```markdown
 1 year as support in TJPR
-1 year as fullstack developer in Chamer
+1 year as backend developer in Chamer
 ```
 
 ## Data Science Projects
@@ -64,4 +64,4 @@ This project was made as I was doing a course in the Data Science Academy websit
 - the sum of sales and finally 
 - a table showing infos of each factory.
 
-<img src="imagens/EstudoCaso1.png" alt="hi" class="inline"/>
+<img src="EstudoCaso1.png" alt="hi" class="inline"/>
